@@ -1,0 +1,12 @@
+{
+    "eventGridTopic": "evgt-",
+    "eventGridSubscription": "evgs-",
+    "eventHubNamespace": "evhns-",
+    "eventHub": "evh-",
+    "keyVault":"kv-",
+    "functionsApp":"func-",
+    "storageAccount":"st",
+    "appServicePlan": "plan-",
+    "applicationInsights":"appi-",
+    "logAnalyticsWorkspace": "log-"
+  }
