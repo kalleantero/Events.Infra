@@ -19,5 +19,10 @@ az deployment sub create -f coreInfrastructure.bicep --location westeurope
 ```
 az deployment sub create -f postDeploymentCoreInfrastructure.bicep --location westeurope
 ```
+## Used technologies
+- Bicep
 
+## Read more
+- Blog posts
+  - [How to create an infrastructure for EventGrid and Webhook event handler?](https://www.kallemarjokorpi.fi/blog/how-to-create-infrastructure-for-eventgrid-and-webhook.html)
 
